@@ -1,1 +1,1 @@
-Self-Study Dir By <a href='heicks.github.io>Heicks</a>
+#Self-Study Dir By [Heicks](heicks.github.io)
